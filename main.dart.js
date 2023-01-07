@@ -63078,7 +63078,7 @@ A.vs.prototype={
 a9(){return new A.Fa(null,null,B.l)}}
 A.Fa.prototype={
 G(a){var s=A.a4(204,33,150,243)
-return A.wO(null,null,new A.uM(18,A.a([A.aeR("\uace0\ucf54\ub354\ub137\uc5d0 \uc624\uc2e0\uac78 \ud658\uc601\ud569\ub2c8\ub2e4.",B.h,"assets/images/logo_king.png",""),A.aeR("\uace0\ucf54\ub354\ub137\uc740 \uac1c\ubc1c\uc790 \uace0\ucf54\ub354\uc758 \ud648\ud398\uc774\uc9c0 \uc785\ub2c8\ub2e4.",B.h,"assets/images/gocodernet_logo.png",""),A.aeR("\ucc9c\ucc9c\ud788 \uad6c\uacbd\ud574\ubcf4\uc138\uc694!",B.h,"assets/images/fullscreen.git","")],t.nd),new A.Ze(),new A.Zf(),B.h,s,null))}}
+return A.wO(null,null,new A.uM(18,A.a([A.aeR("\uace0\ucf54\ub354\ub137\uc5d0 \uc624\uc2e0\uac78 \ud658\uc601\ud569\ub2c8\ub2e4.",B.h,"assets/images/logo_king.png","\ud83d\udc4b"),A.aeR("\uace0\ucf54\ub354\ub137\uc740 \uac1c\ubc1c\uc790 \uace0\ucf54\ub354\uc758 \ud648\ud398\uc774\uc9c0 \uc785\ub2c8\ub2e4.",B.h,"assets/images/gocodernet_logo.png",""),A.aeR("\ucc9c\ucc9c\ud788 \uad6c\uacbd\ud574\ubcf4\uc138\uc694!",B.h,"assets/images/fullscreen.git","")],t.nd),new A.Ze(),new A.Zf(),B.h,s,null))}}
 A.Zf.prototype={
 $0(){var s=0,r=A.P(t.P)
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
