@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b28efa14164767ae7775fa7966b08742",
+  "assets/AssetManifest.json": "cedab06d83c181674c92d554dc7c9bb6",
 "assets/assets/fonts/NotoSansKR-Bold.otf": "e2406ff1791c401bc93e73d9e44e6d2b",
 "assets/assets/fonts/NotoSansKR-Medium.otf": "32666ae307200b0bcab5553590672bb1",
 "assets/assets/fonts/NotoSansKR-Regular.otf": "210989664066c01d8ffdbdf56bb773cd",
@@ -33,8 +33,9 @@ const RESOURCES = {
 "assets/assets/gocoder_app/tab_4.png": "f679006d5a49884f9ae89628d1d62d88",
 "assets/assets/gocoder_app/tab_4s.png": "40c45bbb7601c039da61be3e3c0f7520",
 "assets/assets/gocoder_app/webtool1.png": "7e40426f66cd16e3ca02811c6eef7af3",
-"assets/assets/gocoder_app/webtool2.png": "63e9a9f856524bdd042a887b800ed084",
+"assets/assets/gocoder_app/webtool2.png": "5eb89adb8a7cd22701d2aefcb33254f0",
 "assets/assets/gocoder_app/webtool3.png": "266cf6e9c1cf8ee827aad4803c2a6e09",
+"assets/assets/gocoder_app/webtool4.png": "fa1dbfdfe16c758deddfc1ee774eecd1",
 "assets/assets/images/brunch_logo.png": "8e71f9ba6f7920bc27bf7fdfacf12dba",
 "assets/assets/images/feedbackImage.png": "5f8e9064f54cf51a70fee2da78a5b014",
 "assets/assets/images/gocodernet_logo.png": "e93276ba1499967cb2f997f976c3194b",
@@ -64,9 +65,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d440aaaf62fab19fed14f92cb6f35ecb",
-"/": "d440aaaf62fab19fed14f92cb6f35ecb",
-"main.dart.js": "c320fa62ca94ec5f3122f0284b7f527c",
+"index.html": "87bdfeecc58d98fc5756affe92d83684",
+"/": "87bdfeecc58d98fc5756affe92d83684",
+"main.dart.js": "ab557996677ea0bd829c5bc3f423966f",
 "manifest.json": "ba4591b8ceedd8563c7681c9fd29fe51",
 "version.json": "d3858a00539663dd4628a8dbb8046cd6"
 };
