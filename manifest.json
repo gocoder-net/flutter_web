@@ -1,11 +1,11 @@
 {
-    "name": "net_gocoder_flutter",
-    "short_name": "net_gocoder_flutter",
+    "name": "gocodernet",
+    "short_name": "gocodernet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "GoCoder Flutter",
+    "description": "GoCoder.Net",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
