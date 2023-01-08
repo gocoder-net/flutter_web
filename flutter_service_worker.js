@@ -54,7 +54,7 @@ const RESOURCES = {
 "assets/assets/images/userImage.png": "afc26cb27789a846c7047e57cb9c6422",
 "assets/FontManifest.json": "3f2dae62ca6212ed6204b587121d6df6",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "1f44d7a6077d69e79f6786ea7c0bc528",
+"assets/NOTICES": "a9437b6aaa3e3d6eb2982aea9fd332f4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "99f29024aee8f4672a47cc3a81b9b84a",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "48ce1bb8a42776caa951cb782d277730",
@@ -67,7 +67,7 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "index.html": "d0183a1f626eb6061795c0d668fc6b4c",
 "/": "d0183a1f626eb6061795c0d668fc6b4c",
-"main.dart.js": "edb6b21c7b781807adfe31fc9e601b26",
+"main.dart.js": "14885ee2bdf0e58dfda45283d950f249",
 "version.json": "14940eb60ffc3c6bbd05bcb67b23212b"
 };
 
