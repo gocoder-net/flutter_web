@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "39985c3c05762493c88749a57bd5ed18",
+  "assets/AssetManifest.json": "86ce5b2b62802588643fe048ed4f8e0b",
 "assets/assets/gocoder_app/area1.png": "9cbfec64c29ec6821547f1c5093f38b7",
 "assets/assets/gocoder_app/area2.png": "2863c486c15808e8f105ccac2febfdbc",
 "assets/assets/gocoder_app/area3.png": "e85a8d2207edfb0325369d93982fba03",
@@ -45,6 +45,7 @@ const RESOURCES = {
 "assets/assets/images/jinhyun.png": "24895081f19bffd6f3b2d57f32d1674e",
 "assets/assets/images/logo.png": "c29d8845a7daeccd56c9b7a9566124ef",
 "assets/assets/images/logo_king.png": "4b6c8afa25a10778e5e0474ed9131dd9",
+"assets/assets/images/moon.jpg": "8dbe9c22e44dbfc3138e5856e86aa78c",
 "assets/assets/images/naver_profile.png": "1dc4c07c6a35d209f6b2668b86ebbb50",
 "assets/assets/images/supportIcon.png": "2eb21b9823a538c996ec667e17388322",
 "assets/assets/images/tistory_logo.png": "e5774c865519b18f610252fa374d6a55",
@@ -67,9 +68,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d5f01eda449ec2bf2696f928c3fcf713",
-"/": "d5f01eda449ec2bf2696f928c3fcf713",
-"main.dart.js": "cede622409dce2b3301599ae3b52d1f8",
+"index.html": "050986ca22efd6bbe5c0fa48cca84df6",
+"/": "050986ca22efd6bbe5c0fa48cca84df6",
+"main.dart.js": "dbead87185a50a627aee05a561a15122",
 "manifest.json": "1c8541996eccb94aa77966b3a80db225",
 "version.json": "0f94575dad7e9fcd6a7c51e008b7e7e1"
 };
