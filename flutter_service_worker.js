@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/gocoder_app/book1.png": "9ba4be22174b0e08c023ae5afd5e8180",
 "assets/assets/gocoder_app/book2.png": "36f1ec87042f6ef32a73946407401fe2",
 "assets/assets/gocoder_app/book3.png": "e7ad3f810cd74dfd91da7f21a442e8ad",
+"assets/assets/gocoder_app/book4.png": "b25d885397b8f30f013d5cbf0803e279",
 "assets/assets/gocoder_app/bottle.png": "840d3c89291f9d3b0a859d7479c10d0c",
 "assets/assets/gocoder_app/breakfast.png": "1d2b0e6a7e46a44723131c663471f811",
 "assets/assets/gocoder_app/burned.png": "2ffad4b8dff525e57473142f0265b6bd",
