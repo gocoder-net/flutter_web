@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "21b9607a54e99d3c57195dd0a5e601b7",
+  "assets/AssetManifest.json": "05c8fb2c6ab743614456b1f76b249275",
 "assets/assets/gocoder_app/area1.png": "9cbfec64c29ec6821547f1c5093f38b7",
 "assets/assets/gocoder_app/area2.png": "2863c486c15808e8f105ccac2febfdbc",
 "assets/assets/gocoder_app/area3.png": "e85a8d2207edfb0325369d93982fba03",
@@ -13,7 +13,6 @@ const RESOURCES = {
 "assets/assets/gocoder_app/book1.png": "9ba4be22174b0e08c023ae5afd5e8180",
 "assets/assets/gocoder_app/book2.png": "36f1ec87042f6ef32a73946407401fe2",
 "assets/assets/gocoder_app/book3.png": "e7ad3f810cd74dfd91da7f21a442e8ad",
-"assets/assets/gocoder_app/book4.png": "b25d885397b8f30f013d5cbf0803e279",
 "assets/assets/gocoder_app/bottle.png": "840d3c89291f9d3b0a859d7479c10d0c",
 "assets/assets/gocoder_app/breakfast.png": "1d2b0e6a7e46a44723131c663471f811",
 "assets/assets/gocoder_app/burned.png": "2ffad4b8dff525e57473142f0265b6bd",
@@ -76,9 +75,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0ab1dfd558e7f49a4feb26db9924aba2",
-"/": "0ab1dfd558e7f49a4feb26db9924aba2",
-"main.dart.js": "7fc9290afa701f2bd59f0c8c849690e8",
+"index.html": "41c3da2dc548b978914b2bad19a398fe",
+"/": "41c3da2dc548b978914b2bad19a398fe",
+"main.dart.js": "b89d46d89ea594fd04cf380de863c0f9",
 "manifest.json": "8f6b74b2dc028ff774716cdee16f3bc1",
 "version.json": "0f94575dad7e9fcd6a7c51e008b7e7e1"
 };
